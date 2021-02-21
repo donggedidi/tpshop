@@ -1,0 +1,145 @@
+2021-02-11 00:06:06,048 INFO [root] [base.py (base_click:19] - 正在点击('link text', '登录')
+2021-02-11 00:06:06,394 INFO [root] [base.py (base_click:21] - 点击('link text', '登录')完成
+2021-02-11 00:06:06,396 INFO [root] [test01_login.py (test_login:38] - 正在测试login模块
+2021-02-11 00:06:06,396 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#username')
+2021-02-11 00:06:06,406 INFO [root] [base.py (base_input:26] - 点击('css selector', '#username')完成
+2021-02-11 00:06:06,406 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#username')内容
+2021-02-11 00:06:06,448 INFO [root] [base.py (base_input:29] - 正在('css selector', '#username')输入框里输入18900000000
+2021-02-11 00:06:06,510 INFO [root] [base.py (base_input:31] - 输入('css selector', '#username')完成输入值18900000000
+2021-02-11 00:06:06,510 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#password')
+2021-02-11 00:06:06,518 INFO [root] [base.py (base_input:26] - 点击('css selector', '#password')完成
+2021-02-11 00:06:06,518 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#password')内容
+2021-02-11 00:06:06,543 INFO [root] [base.py (base_input:29] - 正在('css selector', '#password')输入框里输入111111
+2021-02-11 00:06:06,579 INFO [root] [base.py (base_input:31] - 输入('css selector', '#password')完成输入值111111
+2021-02-11 00:06:06,579 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#verify_code')
+2021-02-11 00:06:06,595 INFO [root] [base.py (base_input:26] - 点击('css selector', '#verify_code')完成
+2021-02-11 00:06:06,595 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#verify_code')内容
+2021-02-11 00:06:06,620 INFO [root] [base.py (base_input:29] - 正在('css selector', '#verify_code')输入框里输入8881
+2021-02-11 00:06:06,652 INFO [root] [base.py (base_input:31] - 输入('css selector', '#verify_code')完成输入值8881
+2021-02-11 00:06:06,652 INFO [root] [base.py (base_click:19] - 正在点击('css selector', '.J-login-submit')
+2021-02-11 00:06:06,689 INFO [root] [base.py (base_click:21] - 点击('css selector', '.J-login-submit')完成
+2021-02-11 00:06:19,830 ERROR [root] [base.py (base_if_exist:49] - error信息是Message: 
+
+2021-02-11 00:06:19,830 ERROR [root] [test01_login.py (test_login:50] - error是False is not true
+2021-02-11 00:06:19,830 INFO [root] [base.py (base_get_screenshot:38] - 正在截图
+2021-02-11 00:06:20,372 INFO [root] [base.py (base_get_screenshot:40] - 完成截图
+2021-02-11 00:06:20,373 INFO [root] [test01_login.py (test_login:38] - 正在测试login模块
+2021-02-11 00:06:20,373 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#username')
+2021-02-11 00:06:20,382 INFO [root] [base.py (base_input:26] - 点击('css selector', '#username')完成
+2021-02-11 00:06:20,382 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#username')内容
+2021-02-11 00:06:20,449 INFO [root] [base.py (base_input:29] - 正在('css selector', '#username')输入框里输入18900000000
+2021-02-11 00:06:20,515 INFO [root] [base.py (base_input:31] - 输入('css selector', '#username')完成输入值18900000000
+2021-02-11 00:06:20,515 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#password')
+2021-02-11 00:06:20,523 INFO [root] [base.py (base_input:26] - 点击('css selector', '#password')完成
+2021-02-11 00:06:20,523 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#password')内容
+2021-02-11 00:06:20,552 INFO [root] [base.py (base_input:29] - 正在('css selector', '#password')输入框里输入111111
+2021-02-11 00:06:20,628 INFO [root] [base.py (base_input:31] - 输入('css selector', '#password')完成输入值111111
+2021-02-11 00:06:20,628 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#verify_code')
+2021-02-11 00:06:20,637 INFO [root] [base.py (base_input:26] - 点击('css selector', '#verify_code')完成
+2021-02-11 00:06:20,637 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#verify_code')内容
+2021-02-11 00:06:20,675 INFO [root] [base.py (base_input:29] - 正在('css selector', '#verify_code')输入框里输入8888
+2021-02-11 00:06:20,711 INFO [root] [base.py (base_input:31] - 输入('css selector', '#verify_code')完成输入值8888
+2021-02-11 00:06:20,711 INFO [root] [base.py (base_click:19] - 正在点击('css selector', '.J-login-submit')
+2021-02-11 00:06:21,788 INFO [root] [test01_login.py (test_login:38] - 正在测试login模块
+2021-02-11 00:06:21,788 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#username')
+2021-02-11 00:06:21,799 INFO [root] [base.py (base_input:26] - 点击('css selector', '#username')完成
+2021-02-11 00:06:21,799 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#username')内容
+2021-02-11 00:06:21,832 INFO [root] [base.py (base_input:29] - 正在('css selector', '#username')输入框里输入18900000001
+2021-02-11 00:06:21,872 INFO [root] [base.py (base_input:31] - 输入('css selector', '#username')完成输入值18900000001
+2021-02-11 00:06:21,872 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#password')
+2021-02-11 00:06:21,877 INFO [root] [base.py (base_input:26] - 点击('css selector', '#password')完成
+2021-02-11 00:06:21,877 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#password')内容
+2021-02-11 00:06:21,893 INFO [root] [base.py (base_input:29] - 正在('css selector', '#password')输入框里输入111111
+2021-02-11 00:06:21,927 INFO [root] [base.py (base_input:31] - 输入('css selector', '#password')完成输入值111111
+2021-02-11 00:06:21,927 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#verify_code')
+2021-02-11 00:06:21,931 INFO [root] [base.py (base_input:26] - 点击('css selector', '#verify_code')完成
+2021-02-11 00:06:21,931 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#verify_code')内容
+2021-02-11 00:06:21,946 INFO [root] [base.py (base_input:29] - 正在('css selector', '#verify_code')输入框里输入8888
+2021-02-11 00:06:21,980 INFO [root] [base.py (base_input:31] - 输入('css selector', '#verify_code')完成输入值8888
+2021-02-11 00:06:21,980 INFO [root] [base.py (base_click:19] - 正在点击('css selector', '.J-login-submit')
+2021-02-11 00:06:23,033 INFO [root] [test01_login.py (test_login:38] - 正在测试login模块
+2021-02-11 00:06:23,033 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#username')
+2021-02-11 00:06:23,042 INFO [root] [base.py (base_input:26] - 点击('css selector', '#username')完成
+2021-02-11 00:06:23,042 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#username')内容
+2021-02-11 00:06:23,079 INFO [root] [base.py (base_input:29] - 正在('css selector', '#username')输入框里输入189000
+2021-02-11 00:06:23,116 INFO [root] [base.py (base_input:31] - 输入('css selector', '#username')完成输入值189000
+2021-02-11 00:06:23,116 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#password')
+2021-02-11 00:06:23,121 INFO [root] [base.py (base_input:26] - 点击('css selector', '#password')完成
+2021-02-11 00:06:23,121 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#password')内容
+2021-02-11 00:06:23,138 INFO [root] [base.py (base_input:29] - 正在('css selector', '#password')输入框里输入111111
+2021-02-11 00:06:23,169 INFO [root] [base.py (base_input:31] - 输入('css selector', '#password')完成输入值111111
+2021-02-11 00:06:23,169 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#verify_code')
+2021-02-11 00:06:23,174 INFO [root] [base.py (base_input:26] - 点击('css selector', '#verify_code')完成
+2021-02-11 00:06:23,174 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#verify_code')内容
+2021-02-11 00:06:23,193 INFO [root] [base.py (base_input:29] - 正在('css selector', '#verify_code')输入框里输入8888
+2021-02-11 00:06:23,223 INFO [root] [base.py (base_input:31] - 输入('css selector', '#verify_code')完成输入值8888
+2021-02-11 00:06:23,223 INFO [root] [base.py (base_click:19] - 正在点击('css selector', '.J-login-submit')
+2021-02-11 00:06:24,287 INFO [root] [test01_login.py (test_login:38] - 正在测试login模块
+2021-02-11 00:06:24,287 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#username')
+2021-02-11 00:06:24,294 INFO [root] [base.py (base_input:26] - 点击('css selector', '#username')完成
+2021-02-11 00:06:24,294 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#username')内容
+2021-02-11 00:06:24,325 INFO [root] [base.py (base_input:29] - 正在('css selector', '#username')输入框里输入
+2021-02-11 00:06:24,353 INFO [root] [base.py (base_input:31] - 输入('css selector', '#username')完成输入值
+2021-02-11 00:06:24,353 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#password')
+2021-02-11 00:06:24,358 INFO [root] [base.py (base_input:26] - 点击('css selector', '#password')完成
+2021-02-11 00:06:24,358 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#password')内容
+2021-02-11 00:06:24,376 INFO [root] [base.py (base_input:29] - 正在('css selector', '#password')输入框里输入111111
+2021-02-11 00:06:24,408 INFO [root] [base.py (base_input:31] - 输入('css selector', '#password')完成输入值111111
+2021-02-11 00:06:24,408 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#verify_code')
+2021-02-11 00:06:24,412 INFO [root] [base.py (base_input:26] - 点击('css selector', '#verify_code')完成
+2021-02-11 00:06:24,413 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#verify_code')内容
+2021-02-11 00:06:24,429 INFO [root] [base.py (base_input:29] - 正在('css selector', '#verify_code')输入框里输入8888
+2021-02-11 00:06:24,462 INFO [root] [base.py (base_input:31] - 输入('css selector', '#verify_code')完成输入值8888
+2021-02-11 00:06:24,462 INFO [root] [base.py (base_click:19] - 正在点击('css selector', '.J-login-submit')
+2021-02-11 00:06:25,520 INFO [root] [test01_login.py (test_login:38] - 正在测试login模块
+2021-02-11 00:06:25,520 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#username')
+2021-02-11 00:06:25,532 INFO [root] [base.py (base_input:26] - 点击('css selector', '#username')完成
+2021-02-11 00:06:25,532 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#username')内容
+2021-02-11 00:06:25,549 INFO [root] [base.py (base_input:29] - 正在('css selector', '#username')输入框里输入18900000000
+2021-02-11 00:06:25,575 INFO [root] [base.py (base_input:31] - 输入('css selector', '#username')完成输入值18900000000
+2021-02-11 00:06:25,575 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#password')
+2021-02-11 00:06:25,580 INFO [root] [base.py (base_input:26] - 点击('css selector', '#password')完成
+2021-02-11 00:06:25,580 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#password')内容
+2021-02-11 00:06:25,599 INFO [root] [base.py (base_input:29] - 正在('css selector', '#password')输入框里输入111112
+2021-02-11 00:06:25,635 INFO [root] [base.py (base_input:31] - 输入('css selector', '#password')完成输入值111112
+2021-02-11 00:06:25,635 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#verify_code')
+2021-02-11 00:06:25,641 INFO [root] [base.py (base_input:26] - 点击('css selector', '#verify_code')完成
+2021-02-11 00:06:25,641 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#verify_code')内容
+2021-02-11 00:06:25,660 INFO [root] [base.py (base_input:29] - 正在('css selector', '#verify_code')输入框里输入8888
+2021-02-11 00:06:25,691 INFO [root] [base.py (base_input:31] - 输入('css selector', '#verify_code')完成输入值8888
+2021-02-11 00:06:25,691 INFO [root] [base.py (base_click:19] - 正在点击('css selector', '.J-login-submit')
+2021-02-11 00:06:26,765 INFO [root] [test01_login.py (test_login:38] - 正在测试login模块
+2021-02-11 00:06:26,765 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#username')
+2021-02-11 00:06:26,774 INFO [root] [base.py (base_input:26] - 点击('css selector', '#username')完成
+2021-02-11 00:06:26,774 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#username')内容
+2021-02-11 00:06:26,809 INFO [root] [base.py (base_input:29] - 正在('css selector', '#username')输入框里输入18900000000
+2021-02-11 00:06:26,853 INFO [root] [base.py (base_input:31] - 输入('css selector', '#username')完成输入值18900000000
+2021-02-11 00:06:26,853 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#password')
+2021-02-11 00:06:26,859 INFO [root] [base.py (base_input:26] - 点击('css selector', '#password')完成
+2021-02-11 00:06:26,859 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#password')内容
+2021-02-11 00:06:26,877 INFO [root] [base.py (base_input:29] - 正在('css selector', '#password')输入框里输入
+2021-02-11 00:06:26,909 INFO [root] [base.py (base_input:31] - 输入('css selector', '#password')完成输入值
+2021-02-11 00:06:26,910 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#verify_code')
+2021-02-11 00:06:26,914 INFO [root] [base.py (base_input:26] - 点击('css selector', '#verify_code')完成
+2021-02-11 00:06:26,914 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#verify_code')内容
+2021-02-11 00:06:26,928 INFO [root] [base.py (base_input:29] - 正在('css selector', '#verify_code')输入框里输入8888
+2021-02-11 00:06:26,965 INFO [root] [base.py (base_input:31] - 输入('css selector', '#verify_code')完成输入值8888
+2021-02-11 00:06:26,965 INFO [root] [base.py (base_click:19] - 正在点击('css selector', '.J-login-submit')
+2021-02-11 00:06:28,048 INFO [root] [test01_login.py (test_login:38] - 正在测试login模块
+2021-02-11 00:06:28,048 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#username')
+2021-02-11 00:06:28,060 INFO [root] [base.py (base_input:26] - 点击('css selector', '#username')完成
+2021-02-11 00:06:28,061 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#username')内容
+2021-02-11 00:06:28,095 INFO [root] [base.py (base_input:29] - 正在('css selector', '#username')输入框里输入18900000000
+2021-02-11 00:06:28,133 INFO [root] [base.py (base_input:31] - 输入('css selector', '#username')完成输入值18900000000
+2021-02-11 00:06:28,133 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#password')
+2021-02-11 00:06:28,138 INFO [root] [base.py (base_input:26] - 点击('css selector', '#password')完成
+2021-02-11 00:06:28,138 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#password')内容
+2021-02-11 00:06:28,152 INFO [root] [base.py (base_input:29] - 正在('css selector', '#password')输入框里输入111111
+2021-02-11 00:06:28,176 INFO [root] [base.py (base_input:31] - 输入('css selector', '#password')完成输入值111111
+2021-02-11 00:06:28,176 INFO [root] [base.py (base_input:24] - 正在查找('css selector', '#verify_code')
+2021-02-11 00:06:28,180 INFO [root] [base.py (base_input:26] - 点击('css selector', '#verify_code')完成
+2021-02-11 00:06:28,180 INFO [root] [base.py (base_input:27] - 正在清空('css selector', '#verify_code')内容
+2021-02-11 00:06:28,198 INFO [root] [base.py (base_input:29] - 正在('css selector', '#verify_code')输入框里输入
+2021-02-11 00:06:28,229 INFO [root] [base.py (base_input:31] - 输入('css selector', '#verify_code')完成输入值
+2021-02-11 00:06:28,229 INFO [root] [base.py (base_click:19] - 正在点击('css selector', '.J-login-submit')
+2021-02-11 00:06:29,385 INFO [root] [test01_login.py (tearDownClass:34] - 完成测试login模块
